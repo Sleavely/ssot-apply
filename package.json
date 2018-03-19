@@ -1,0 +1,22 @@
+{
+  "name": "ssot-apply",
+  "version": "1.0.0",
+  "description": "Decides on, and applies, a single source of truth for process.env",
+  "main": "index.js",
+  "repository": "Sleavely/ssot-apply",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "arguments",
+    "dotenv",
+    "config",
+    "ssot"
+  ],
+  "author": "Joakim Hedlund <contact@joakimhedlund.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ssot": "0.0.6"
+  }
+}
